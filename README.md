@@ -12,7 +12,7 @@ For Hacktoberfest 2025, Zero To Mastery is excited to introduce **three projects
 
 1. **Sign up** on the [Official Hacktoberfest Website](https://hacktoberfest.com/auth).
 2. **New to GitHub?** Watch this step-by-step guide: [Aldo's Open Source Video Guide](https://www.youtube.com/watch?v=uQLNFRviB6Q) and get started with our [Starter Repository](https://github.com/zero-to-mastery/start-here-guidelines).
-3. Submit **4 quality pull requests** to any **participating** public repository during October. (Check out ZTM's three open-source projects below! 🎯)
+3. Submit **6 quality pull requests** to any **participating** public repository during October. (Check out ZTM's three open-source projects below! 🎯)
 4. **Join the conversation** with fellow ZTM students on our Discord in the #hacktoberfest-2025 channel. Whether you need help or want to share ideas, we’re all in this together.
 5. Most importantly—**have fun**!
 
@@ -64,8 +64,8 @@ A brand new project for 2025! This project is perfect for those wanting to build
 
 # What Happens After You Submit a Pull Request?
 
-Once you submit a pull request (PR), you're all set! Hacktoberfest automatically tracks your contributions, and once you complete 4 PRs, you'll qualify for your reward.
+Once you submit a pull request (PR), you're all set! Hacktoberfest automatically tracks your contributions, and once you complete 6 PRs, you'll qualify for your reward.
 
-Feel free to keep contributing to the same project or try new ones—the more, the merrier! You only need 4 qualifying PRs to get your reward, but there’s no limit to how much you can contribute.
+Feel free to keep contributing to the same project or try new ones—the more, the merrier! You only need 6 qualifying PRs to get your reward, but there’s no limit to how much you can contribute.
 
 **Let’s make Hacktoberfest 2025 unforgettable together!** 🎉
