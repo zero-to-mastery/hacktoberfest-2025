@@ -49,7 +49,7 @@ ZTM Quest is back Hacktoberfest 2025! This fullstack project invites developers 
 
 #### [![URL Shortener](https://img.shields.io/badge/RUST%20PROJECT-URL%20SHORTENER-blue?style=for-the-badge&logo=Rust)](https://github.com/zero-to-mastery/url-shortener-ztm)
 
-A brand new project for 2025! This project is perfect for those wanting to build something practical in Rust
+A brand new project for 2025! This project is perfect for anyone who wants to build something practical using Rust.
 
 **Project Overview**  
 > A high-performance URL shortener service built with modern Rust technologies. This service provides a simple API for creating shortened URLs and redirecting users to their original destinations.
